@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 * Wet lab experiments
-* Computer biology
+* Programming
   * Bash
   * Perl
   * R
