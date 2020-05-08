@@ -30,7 +30,7 @@ Skills
   * Perl
   * R
   * AWS
-* Skill 3
+
 
 Publications
 ======
