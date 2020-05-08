@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* BSc in Biotechnology, Huaqiao University, China, 2010 
-* PhD in Plant Biology, Peking University, China, 2018 
+* PhD in Plant Biology, School of Life Sciences, Peking University, 2016
+* BSc in Biotechnology, College of Chemical Engineering, Huaqiao University, 2010 
 
 Work experience
 ======
-* 2017: Postdoctoral fellow
-  * Vanderbilt University Medical Center
-  * Discovery of structural variation in breast cancer susceptibility gene using > 2,000 WGS
-
+* 201711-present, Postdoctoral fellow
+  * Division of Epidemiology, Department of Medicine, Vanderbilt University Medical Center, USA
+  * Identification of susceptibility genetic variants and genes in relation to cancers using state-of-the-art bioinformatic and statistical approaches
 
   
 Skills
